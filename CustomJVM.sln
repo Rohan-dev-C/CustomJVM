@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomJVM", "CustomJVM\CustomJVM.csproj", "{CDA69082-802B-439B-A530-DB1E0EDCE6BF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CDA69082-802B-439B-A530-DB1E0EDCE6BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDA69082-802B-439B-A530-DB1E0EDCE6BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDA69082-802B-439B-A530-DB1E0EDCE6BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDA69082-802B-439B-A530-DB1E0EDCE6BF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BB4BF0C3-E452-4158-8623-58658E32BB84}
+	EndGlobalSection
+EndGlobal

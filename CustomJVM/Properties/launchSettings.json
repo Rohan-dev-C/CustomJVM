@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CustomJVM": {
+      "commandName": "Project",
+      "commandLineArgs": "\"C:\\Users\\rohan\\OneDrive\\Documents\\VS Code\\CustomJVMStuff\\Program.class\""
+    }
+  }
+}
