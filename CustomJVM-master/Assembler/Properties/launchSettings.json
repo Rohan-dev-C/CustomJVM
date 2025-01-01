@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "7.24.ComputerArchitecture.Assembler": {
+      "commandName": "Project",
+      "commandLineArgs": "..\\..\\..\\Program.asm"
+    }
+  }
+}
